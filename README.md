@@ -1,1 +1,3 @@
-This is where packages for Magnetism Linux are stored. they are of .tar.gz files.
+This is where packages for Magnetism Linux are stored. they are of .tar.gz and .tar.bz2 files.
+
+We have very little packages right now, so adding some more is appreciated!
